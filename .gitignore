@@ -1,0 +1,36 @@
+# Secrets
+.env
+
+# Virtual env
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# DB
+*.sqlite3
+*.db
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Tool caches
+.mypy_cache/
+.ruff_cache/
+
+# Build
+dist/
+build/
+*.egg-info/
